@@ -1,4 +1,4 @@
-# Week 2 -> Day 2 ->  Coding AI Tools and HuggingFace Spaces
+# Week 2 -> Day 2 ->  AI Coding Tools and HuggingFace Spaces
 ---
 ## Table of Contents
 
